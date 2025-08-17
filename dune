@@ -1,4 +1,2 @@
-(executable
- (public_name interp03)
- (name main)
- (libraries interp03))
+(test
+ (name test_interp03))
