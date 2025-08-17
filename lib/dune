@@ -1,4 +1,4 @@
 (library
- (name interp03)
- (libraries stdlib320 utils my_parser)
+ (name utils)
+ (libraries stdlib320)
  (flags (:standard -nostdlib -nopervasives -open Stdlib320)))
